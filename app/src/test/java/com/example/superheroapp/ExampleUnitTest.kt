@@ -1,4 +1,4 @@
-package com.example.basiccodelab
+package com.example.superheroapp
 
 import org.junit.Test
 

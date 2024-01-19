@@ -15,7 +15,7 @@
         android:theme="@style/Theme.BasicsCodelab"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.superheroapp.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.BasicsCodelab">
             <intent-filter>

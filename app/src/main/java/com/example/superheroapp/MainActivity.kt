@@ -1,4 +1,4 @@
-package com.example.basiccodelab
+package com.example.superheroapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -42,9 +42,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.basicscodelab.R
-import com.example.basiccodelab.services.generateMockData
-import com.example.basiccodelab.services.Superhero
-import com.example.basiccodelab.ui.theme.BasicsCodelabTheme
+import com.example.superheroapp.services.generateMockData
+import com.example.superheroapp.services.Superhero
+import com.example.superheroapp.ui.theme.BasicsCodelabTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

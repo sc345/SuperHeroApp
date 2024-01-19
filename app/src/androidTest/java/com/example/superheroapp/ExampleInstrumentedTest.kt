@@ -1,4 +1,4 @@
-package com.example.basiccodelab
+package com.example.superheroapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
